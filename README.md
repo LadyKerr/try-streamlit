@@ -1,6 +1,26 @@
-# try-streamlit
+# try-streamlit 💃🏼
 This demo accompanies a talk on getting the most out of GitHub Copilot.
 In this dem, I try out streamlit for the first time with a little help from GitHub Copilot.
+
+
+## Local Dev ⚒️
+
+### To try this demo yourself:
+1. fork and clone this repository
+2. open the notebook in your editor
+3. open up GitHub Copilot Chat do the following:
+
+```
+- Ask: Can I use streamlit in this app? (create a new file with the suggestions)
+- Ask: How do I install it? (if instructions weren't initially provided)
+- Accept suggestions and open up app in browser
+- Ask: What else can I do with Streamlit and my #flights.csv data? (attach csv file) to conversation
+- Accept suggestions and verify app still works in broswer
+- Ask as many questions as you want about streamlit and implement the suggestions to learn more.
+
+Push your changes to the repository and be proud that you tried a new tool with the help of GitHub Copilot!
+
+```
 
 ## Learn more about getting the most out of GitHb Copilot by visiting these resources:
 
